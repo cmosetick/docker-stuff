@@ -1,8 +1,8 @@
-#Docker Presentation
+#Mini Docker Presentation
 
 ## Nice Pants!
 
-###On Mac & Windows you will need VirtualBox and/or Vagrant to use Docker this on your local system (laptop/desktop)
+###On Mac & Windows you will need VirtualBox and/or Vagrant to use Docker on your local system (laptop/desktop)
 
 # Get started with CoreOS
 ## CoreOS can be run on bare metal or in a hardware virt environment
